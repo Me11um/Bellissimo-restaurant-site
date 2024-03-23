@@ -35,4 +35,3 @@
 <img src="Screenshots/Mobile.png" width="900" />
 </div>
 
-<hr>
